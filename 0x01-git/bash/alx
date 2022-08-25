@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "Alx school is so cool"
+=======
+echo "Alx school"
+>>>>>>> update_script
 =======
 echo "Alx school"
 >>>>>>> update_script
